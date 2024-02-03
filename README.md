@@ -11,7 +11,7 @@ Dive into the Home page to explore my personal projects. From coding experiments
 The Contract page highlights collaborative projects undertaken with clients. It demonstrates my professional approach, attention to detail, and the ability to bring clients' visions to life.
 
 Preview
-To get a quick preview, visit the [live portfolio here  ].
+To get a quick preview, visit the [live portfolio here  https://sathyadhanasekar13.github.io/portfolio-simple-website/  ].
 
 Technologies Used
 HTML
